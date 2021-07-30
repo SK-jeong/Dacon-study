@@ -1,6 +1,6 @@
 # Dacon-study
 
-Data Analysis study through the closed [Dacon](https://dacon.io/) competitions.
+Data Analysis study through a closed [Dacon](https://dacon.io/) competitions.
 
 ## Computer Vison
 
